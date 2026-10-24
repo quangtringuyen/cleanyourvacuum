@@ -112,6 +112,20 @@ This script will:
 
 ---
 
+
+---
+
+### Step 6: Apply Performance & Cleaning Tweaks (Optional but Recommended)
+Run the automated tuning script:
+```bash
+./scripts/4_tweak_performance.sh
+```
+This script will:
+- **Boost roller brush agitation power from 65% to 80%**: Dislodges significantly more dirt and pet hair from carpets and floor joints.
+- **Disable internal debug logging**: Firmware engineers left debug logging enabled in production; turning it off saves CPU cycles, cools the processor, and prevents flash memory wear.
+- **Disable headless 3D scene rendering**: Prevents the SLAM engine from computing unnecessary 3D graphics in memory on a screenless robot.
+- **Purge old log debris**: Frees up flash space.
+
 ## 📱 Accessing Your Vacuum Dashboard
 
 Wait ~45 seconds after reboot, then open your browser on any phone, tablet, or PC connected to your home Wi-Fi:
