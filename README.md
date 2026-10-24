@@ -1,5 +1,7 @@
 # Xiaomi Vacuum-Mop P (STYTJ02YM / STYJ02YM) Root, Valetudo & Vietnamese Voice Guide
 
+[English Version](README.md) | [Bản Tiếng Việt](README.vi.md)
+
 A turnkey, field-tested toolkit to root the **Xiaomi Mi Robot Vacuum-Mop P / Pro** (`STYTJ02YM` / `STYJ02YM`, Viomi V7/V8), install **Valetudo** (100% cloud-free local web control), and replace all voice prompts with **natural Vietnamese**.
 
 ---
